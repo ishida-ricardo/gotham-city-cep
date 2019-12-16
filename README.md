@@ -1,4 +1,6 @@
-## Gotham City Cep
+## Gotham City Cep 
+
+### Tecnologias: MERN (Mongo DB, Express JS, React JS and Node JS)
 
 ### Instruções para instalar e iniciar o projeto:
 
