@@ -2,7 +2,7 @@
 
 ### Instruções para instalar e iniciar o projeto:
 
-* Instalação:
+#### Instalação:
 
  ```
     git clone link-do-projeto
@@ -12,9 +12,9 @@
     yarn install
  ```
 
-* Inicialização:
+#### Inicialização:
 
-Considerando que esteja na raiz do projeto
+* Considerando que esteja na raiz do projeto
 
  ```
     yarn start
@@ -24,9 +24,9 @@ Considerando que esteja na raiz do projeto
 
 O front-end será executado na porta 3000 e o back-end na porta 4000
 
-* Testes:
+#### Testes:
 
-Considerando que esteja na raiz do projeto
+* Considerando que esteja na raiz do projeto
 
  ```
     cd backend
