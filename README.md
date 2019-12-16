@@ -24,6 +24,8 @@
 
 O front-end será executado na porta 3000 e o back-end na porta 4000
 
+Usuário para teste: user@teste.com / senha: teste
+
 #### Testes:
 
 * Considerando que esteja na raiz do projeto
